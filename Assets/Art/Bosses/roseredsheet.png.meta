@@ -1,0 +1,1569 @@
+fileFormatVersion: 2
+guid: 143ec6efd8f920249a23a2610cfa3515
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: roseredsheet_0
+    21300002: roseredsheet_1
+    21300004: roseredsheet_2
+    21300006: roseredsheet_3
+    21300008: roseredsheet_4
+    21300010: roseredsheet_5
+    21300012: roseredsheet_6
+    21300014: roseredsheet_7
+    21300016: roseredsheet_8
+    21300018: roseredsheet_9
+    21300020: roseredsheet_10
+    21300022: roseredsheet_11
+    21300024: roseredsheet_12
+    21300026: roseredsheet_13
+    21300028: roseredsheet_14
+    21300030: roseredsheet_15
+    21300032: roseredsheet_16
+    21300034: roseredsheet_17
+    21300036: roseredsheet_18
+    21300038: roseredsheet_19
+    21300040: roseredsheet_20
+    21300042: roseredsheet_21
+    21300044: roseredsheet_22
+    21300046: roseredsheet_23
+    21300048: roseredsheet_24
+    21300050: roseredsheet_25
+    21300052: roseredsheet_26
+    21300054: roseredsheet_27
+    21300056: roseredsheet_28
+    21300058: roseredsheet_29
+    21300060: roseredsheet_30
+    21300062: roseredsheet_31
+    21300064: roseredsheet_32
+    21300066: roseredsheet_33
+    21300068: roseredsheet_34
+    21300070: roseredsheet_35
+    21300072: roseredsheet_36
+    21300074: roseredsheet_37
+    21300076: roseredsheet_38
+    21300078: roseredsheet_39
+    21300080: roseredsheet_40
+    21300082: roseredsheet_41
+    21300084: roseredsheet_42
+    21300086: roseredsheet_43
+    21300088: roseredsheet_44
+    21300090: roseredsheet_45
+    21300092: roseredsheet_46
+    21300094: roseredsheet_47
+    21300096: roseredsheet_48
+    21300098: roseredsheet_49
+    21300100: roseredsheet_50
+    21300102: roseredsheet_51
+    21300104: roseredsheet_52
+    21300106: roseredsheet_53
+    21300108: roseredsheet_54
+    21300110: roseredsheet_55
+    21300112: roseredsheet_56
+    21300114: roseredsheet_57
+    21300116: roseredsheet_58
+    21300118: roseredsheet_59
+    21300120: roseredsheet_60
+    21300122: roseredsheet_61
+    21300124: roseredsheet_62
+    21300126: roseredsheet_63
+    21300128: roseredsheet_64
+    21300130: roseredsheet_65
+    21300132: roseredsheet_66
+    21300134: roseredsheet_67
+    21300136: roseredsheet_68
+    21300138: roseredsheet_69
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: roseredsheet_0
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 593
+        width: 31
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c58dd29f7d7df4fb5dc2bd8deb8c4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 594
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73e4c5189d1c0545924095c9c66aa59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 593
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136692954c3542946980f388edce6ad7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 593
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e902e9e61dd8a4aa50531cb7744633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_4
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 595
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee399a6463b1d6747ae61fcddfad38d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_5
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 594
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1dbb15e2da1b54db1d72dd860bb5a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_6
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 595
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe237ccc85d60d541ae79ee7f7a70210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_7
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 595
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20c9202a290e5e468aa300cbea42b6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 519
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328f6b593fc198b44b8d5e2c8c194d78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 519
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3abe6f07ad8f14aafcb0c82ef2aedc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_10
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 520
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892527a687b2b3241b0d47e20e29c470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_11
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 521
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b687e9b3e6e564f8369ff88cd598c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_12
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 522
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0476bc065f14cbe4c85e55297e3ba660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_13
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 522
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0966a5356e5e5540b36c0478af4cc82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_14
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 522
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2faccf06f27d344384d63fb62e49afc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_15
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 522
+        width: 14
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251550a906e4543429c84444c415266c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_16
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 437
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4115cccf433bc0e45b92704bca36ab19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_17
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 437
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0623f309da53a7a45a6c5c211add1f86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_18
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 437
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b29aa6cdfa0d0b498b7db9c68c03397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_19
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 437
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff15d1c872a6db48953fc9ece2e7f86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_20
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 438
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693ef2c1efbd16e4f8fc80820a409c9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_21
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 439
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc89ef6f087ea02468475de4f9b5acc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_22
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 439
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7106b043d138fe4281356c6d0bddafe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_23
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 439
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fd80e58758eda428410bae98bbbf21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_24
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 440
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b1bed0a4397e049bcd628ca70160e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_25
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 440
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7893b4741330198408e1e1235c561f78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_26
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 441
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf949c190ce3204ebd9768420a2aafc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_27
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 439
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd59013b74ddab4e8553a11e7407df7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_28
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 439
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a51c1b67a1d5c648939debcf4934261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 351
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786deab611ea40b49a17e4a6a7450542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_30
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 352
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae90005f6907ae34895ec0010f5c93ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_31
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 352
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc8ac67189e5084dae82a3cfbbb9a4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_32
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 351
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68359a127ed4bb04aa711c14bc3a475a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_33
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 353
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b2250e6c4ea1548ba973e27e1da0e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_34
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 353
+        width: 31
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6308cf872fe9b3341aa3ec5d4600848d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_35
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 354
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c88301c650c3c341b146f12931a9451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_36
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 355
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd49678fae505d24a963c95ac8e9209f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_37
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 355
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a89098039bc0244e939ce6bd3e3a264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_38
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 354
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282a331956219694d96afa4a07842785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_39
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 354
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2d8cd4e4e244b42a3bda7551bcb03a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_40
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 355
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd66abaf7d45424cbc82dc9a9b8d175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_41
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 261
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d1e269763d5294f933e20a124d18ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 261
+        width: 148
+        height: 47
+      alignment: 9
+      pivot: {x: 0.22484073, y: 0.50807935}
+      border: {x: 0, y: 0, z: 84, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06897e664d6f92408030f0d227ddecc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_43
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 263
+        width: 219
+        height: 46
+      alignment: 9
+      pivot: {x: 0.15021923, y: 0.50000066}
+      border: {x: 0, y: 0, z: 155, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bc89d810be58e4b902300d83bf3e8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_44
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 265
+        width: 86
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f17f0a4ab4c5444884a9068f6bc6029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_45
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 263
+        width: 114
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f4d4e511d662549ab0c168d383f313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_46
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 262
+        width: 107
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b851d0d9bde6232488ef636c267f6fed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_47
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 260
+        width: 98
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e4ecc055f0a864daa474099072c5dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e13ea042166a8941860fa74407d4a97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_49
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 159
+        width: 93
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb4b99a36c74004d957185468f9d31a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_50
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 157
+        width: 81
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2375b5542f4e37c4993c4c43e19bbbcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_51
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 156
+        width: 65
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09ebcd7233509b469d897bdf7a310e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_52
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 155
+        width: 63
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068a5eb2ecd314946bc1c37b5f6d19fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_53
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 155
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5160311fafd03f84a9d84c35cfa4f074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_54
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 155
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742bc377a9f6d024084b6ed705632db5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_55
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 155
+        width: 67
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bd6a312c8e529448bfe872730ef461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_56
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 155
+        width: 64
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44095c6758b5a674a927268ae8facf00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_57
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 154
+        width: 78
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f87b436af5c564a960cae432c49150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_58
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 152
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f43d0e8ed7605a43aad612842194070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_59
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 76
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a19238f9132fc40b0e3a28cdfbc69a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_60
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 77
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b9feb72902c02429b76b8221e95ee0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_61
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 76
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 21, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3985cf8d5f244e478b24e783933cdb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_62
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 78
+        width: 73
+        height: 76
+      alignment: 9
+      pivot: {x: 0.53765035, y: 0.40958977}
+      border: {x: 20, y: 0, z: 0, w: 16}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4a2c6835a9c5b4b8c0e357a9995a22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_63
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 78
+        width: 72
+        height: 60
+      alignment: 9
+      pivot: {x: 0.2805036, y: 0.5057261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576408e7822b51a44ad7bd542c3283a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_64
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 78
+        width: 96
+        height: 60
+      alignment: 9
+      pivot: {x: 0.19938533, y: 0.5057261}
+      border: {x: 0, y: 0, z: 49, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c9549422de7c04aaa221f46b6b6589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_65
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 80
+        width: 136
+        height: 60
+      alignment: 9
+      pivot: {x: 0.1412836, y: 0.5114521}
+      border: {x: 0, y: 0, z: 93, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a08b2fdc0f297248b958d72d6daaa8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_66
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 82
+        width: 207
+        height: 60
+      alignment: 9
+      pivot: {x: 0.096691184, y: 0.5114521}
+      border: {x: 0, y: 0, z: 163, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477325bd34446be4dbfd4f3673671470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_67
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 5
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacc232c9d394c14d81d613ef7312b57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_68
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 6
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241f0d2d16b977f4ca134d38d3139c0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roseredsheet_69
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 5
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0589284a17c2ab4fae21b4f3280c69c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8bc3931ddd551df4a971fe1848e93cce
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

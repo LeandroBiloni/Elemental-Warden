@@ -1,0 +1,1863 @@
+fileFormatVersion: 2
+guid: 053794b7da4f7cd44864193aae11f8ae
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rmx5_shadowdevil_0
+    21300002: rmx5_shadowdevil_1
+    21300004: rmx5_shadowdevil_2
+    21300006: rmx5_shadowdevil_3
+    21300008: rmx5_shadowdevil_4
+    21300010: rmx5_shadowdevil_5
+    21300012: rmx5_shadowdevil_6
+    21300014: rmx5_shadowdevil_7
+    21300016: rmx5_shadowdevil_8
+    21300018: rmx5_shadowdevil_9
+    21300020: rmx5_shadowdevil_10
+    21300022: rmx5_shadowdevil_11
+    21300024: rmx5_shadowdevil_12
+    21300026: rmx5_shadowdevil_13
+    21300028: rmx5_shadowdevil_14
+    21300030: rmx5_shadowdevil_15
+    21300032: rmx5_shadowdevil_16
+    21300034: rmx5_shadowdevil_17
+    21300036: rmx5_shadowdevil_18
+    21300038: rmx5_shadowdevil_19
+    21300040: rmx5_shadowdevil_20
+    21300042: rmx5_shadowdevil_21
+    21300044: rmx5_shadowdevil_22
+    21300046: rmx5_shadowdevil_23
+    21300048: rmx5_shadowdevil_24
+    21300050: rmx5_shadowdevil_25
+    21300052: rmx5_shadowdevil_26
+    21300054: rmx5_shadowdevil_27
+    21300056: rmx5_shadowdevil_28
+    21300058: rmx5_shadowdevil_29
+    21300060: rmx5_shadowdevil_30
+    21300062: rmx5_shadowdevil_31
+    21300064: rmx5_shadowdevil_32
+    21300066: rmx5_shadowdevil_33
+    21300068: rmx5_shadowdevil_34
+    21300070: rmx5_shadowdevil_35
+    21300072: rmx5_shadowdevil_36
+    21300074: rmx5_shadowdevil_37
+    21300076: rmx5_shadowdevil_38
+    21300078: rmx5_shadowdevil_39
+    21300080: rmx5_shadowdevil_40
+    21300082: rmx5_shadowdevil_41
+    21300084: rmx5_shadowdevil_42
+    21300086: rmx5_shadowdevil_43
+    21300088: rmx5_shadowdevil_44
+    21300090: rmx5_shadowdevil_45
+    21300092: rmx5_shadowdevil_46
+    21300094: rmx5_shadowdevil_47
+    21300096: rmx5_shadowdevil_48
+    21300098: rmx5_shadowdevil_49
+    21300100: rmx5_shadowdevil_50
+    21300102: rmx5_shadowdevil_51
+    21300104: rmx5_shadowdevil_52
+    21300106: rmx5_shadowdevil_53
+    21300108: rmx5_shadowdevil_54
+    21300110: rmx5_shadowdevil_55
+    21300112: rmx5_shadowdevil_56
+    21300114: rmx5_shadowdevil_57
+    21300116: rmx5_shadowdevil_58
+    21300118: rmx5_shadowdevil_59
+    21300120: rmx5_shadowdevil_60
+    21300122: rmx5_shadowdevil_61
+    21300124: rmx5_shadowdevil_62
+    21300126: rmx5_shadowdevil_63
+    21300128: rmx5_shadowdevil_64
+    21300130: rmx5_shadowdevil_65
+    21300132: rmx5_shadowdevil_66
+    21300134: rmx5_shadowdevil_67
+    21300136: rmx5_shadowdevil_68
+    21300138: rmx5_shadowdevil_69
+    21300140: rmx5_shadowdevil_70
+    21300142: rmx5_shadowdevil_71
+    21300144: rmx5_shadowdevil_72
+    21300146: rmx5_shadowdevil_73
+    21300148: rmx5_shadowdevil_74
+    21300150: rmx5_shadowdevil_75
+    21300152: rmx5_shadowdevil_76
+    21300154: rmx5_shadowdevil_77
+    21300156: rmx5_shadowdevil_78
+    21300158: rmx5_shadowdevil_79
+    21300160: rmx5_shadowdevil_80
+    21300162: rmx5_shadowdevil_81
+    21300164: rmx5_shadowdevil_82
+    21300166: rmx5_shadowdevil_83
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_0
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 807
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7c50d2f146f6344a3c166477a2bfcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_1
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 801
+        width: 113
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f1a55baecb4974b858df6709771c2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_2
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 800
+        width: 111
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cd1435869b52140b224fcf3cef2e8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 755
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2594ade1332fe0a459030212c5f92ee4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_4
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 754
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55b20b4d758cf94d86cee62d88f98ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 753
+        width: 56
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a31f15d3ed4894c992d82acc675399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_6
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 752
+        width: 72
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fc499342597244cb4073867c6b2dfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_7
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 752
+        width: 88
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73c57a9d179cb349b5b0d7abc324e53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_8
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 752
+        width: 104
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e10c3447c5874479937fa68f9ade7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_9
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 752
+        width: 120
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69866f964d1b1d647aabe8af748ac9c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_10
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 752
+        width: 136
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8926b83000add184aa80f663c6b83c7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 632
+        width: 136
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecab9f05538c0794abdf58777f0cf468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_12
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 632
+        width: 136
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb39fee96b6088e41af5448275078fb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_13
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 632
+        width: 134
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e663edb5de3984fab2cf14729c84d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_14
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 632
+        width: 132
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1dbde9144619c4086f707783bead8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_15
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 633
+        width: 118
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40be945540755394baa948dfac403028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_16
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 512
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9339ae45184664496221094a608ec1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_17
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 512
+        width: 110
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ef0c25dacd0e64bbbb09bd85a2b852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_18
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 515
+        width: 119
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86207154b6cf09e459b983f1aad4cb44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_19
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 521
+        width: 137
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23012cb673b8f5e44affbc6cf8c742fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 327
+        width: 137
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b798e6c333cedd4bafca0d1ce783e4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_21
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 330
+        width: 139
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a87b9ff36b65b4688898aed6c67827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_22
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 448
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f26ee2146857934e904e2f981078448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_23
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 450
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181b355ede3f71d4686cf106a5343d9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_24
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcfe1919e102fe4a8f00fed13f9b2e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_25
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 448
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f55c7d50dae61840af07f68f3a7b737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_26
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 449
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1187596362845c41ad55887e9a12d08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_27
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 450
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bef03a972e03f540948cbe16a253e8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_28
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 449
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2189925e96241534796f012e9761a5ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_29
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 449
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35357ce6d59324540ae497760fac37a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_30
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 408
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c9b30e459e9bb49b86f4bc2c316bde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_31
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 408
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924d4079a5d8c7c4ba2cf4b2d415b104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_32
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 408
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea48792b8a702114bb7ddafe5eb58137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_33
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 409
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1a831ae13e80e42829ce2b93a3ae4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_34
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 408
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201d20a70282e194783beac031e66a6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_35
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 414
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0539a4bc9d5bb8a47a9877c8ec458e4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_36
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 408
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b920623d347877f43a92f72476e1e89f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_37
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 408
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369d663b895f5b64e81c395b5106e8ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_38
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 409
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc2bf564696b4446b44178e3159c195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_39
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 410
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ce5b382acf50a4083e8da0306e7ada
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_40
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 382
+        width: 37
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b275bb88733902498ee8d73f090a2ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_41
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 380
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff61a998587cce4b8c993694fd4dc61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_42
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 376
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba848ae8f3814324aaa0a1843bd5c6e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_43
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 376
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210f4af88088db64a92448fc450df17e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_44
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 376
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c61b9683e16db4591641200cd8f74f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_45
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 376
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b3916694409634693e77c39b898f91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_46
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 324
+        width: 65
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2cf5e5d055e48478b8d1d22bc7620a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_47
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 313
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5201d856138a5541896b10b9990c92b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_48
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 313
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fac1b04d895b449956c0288c7c01ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_49
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 313
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e9b28bb0d859a4b9360cf6e29327d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_50
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 313
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f68f101c9c178244864909106f8dbe2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_51
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 284
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf7c3496c478d641ba7cf7a889aee21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_52
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 276
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea3654ae9bb5544d983bc9f22049c9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_53
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 276
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c67b45fbcac31e49bb518139e167d97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_54
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 274
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219bfed27fa75424a9e5afd962f13b7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_55
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bac5abacf2a8a4298fd502b38e160e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_56
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 201
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9562519848bde4498f42d0be910dabb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_57
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 201
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20da1730f695a16499d2a15186851e54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_58
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 232
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e46848771927b74dae0387b81b57baa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_59
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 208
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483ec704d1a8fc64d83c1e3daf19a27b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_60
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 208
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24003bc7e66e72145b13619eee0deeb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_61
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 208
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fcc0543fdcf5740ad49cd169953d80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_62
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 200
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93caf855acfc1084fa133196e718d072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_63
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 200
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1150ed4ff522eff42b11b770261299e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_64
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 200
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f57f9d5a869c6449d64744ac2b66dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_65
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 125
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5b4d0d8fbf747428c4dc8e3e35283d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_66
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 125
+        width: 77
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157f73ebf04bfcf40a87209e89549ad0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_67
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 120
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fef825793adf04186ecd16badad306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_68
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 120
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999d6608e86de354a9514bba24db527c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_69
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 120
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db1c2cd6b82fbe4f91eddc602f246d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_70
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 121
+        width: 84
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27a5342f7d2a2e4b8dcf6c126fa81ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_71
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 121
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f729d7b75cb1e3a4bb22ba30755c2a1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_72
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 121
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b148d6ee613f0304f95091077c248a7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_73
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 88
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4164427dfb9fb4e8e114b32a0eef11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_74
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 42
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9dec95f9e3e794a85a8b48f879eabb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_75
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 42
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4025fb168da5dc4f82e06c428c0ad57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_76
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 43
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635c16ccffdcdff4f8a85528d57b63b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_77
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 59
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01861395168cf6b44b7e62b51d38f701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_78
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 75
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849ea0012be205048940d00de1af7e49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_79
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 91
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a23547fedab62419319fa9e59b0802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_80
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 75
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e3963db30ea4c4eaedddcc55b9759b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_81
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 75
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afe7538761c1394c851fb204e73567f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_82
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 44
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b6bbb6beb100949bb78b1c8850e324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx5_shadowdevil_83
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2
+        width: 162
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7afc2b12d7359a468b397d22e493d13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ce71a2b798464ad47a294bac02ccc4a6
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
